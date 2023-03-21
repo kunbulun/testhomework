@@ -1,0 +1,7 @@
+FROM openjdk:8-jre
+ENV HOME /home
+ENV RE dev
+run mkdir HOME
+COPY /cicdtest-0.0.1-SNAPSHOT.jar HOME/cicdtest-0.0.1-SNAPSHOT.jar
+WORKDIR HOME
+ENTRYPOINT java -jar cicdtest-0.0.1-SNAPSHOT.jar --spring.profiles.active=$RE
