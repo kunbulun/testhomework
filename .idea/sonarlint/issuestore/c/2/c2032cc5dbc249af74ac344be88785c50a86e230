@@ -1,0 +1,14 @@
+
+j
+java:S2095$"HUse try-with-resources or close this "Connection" in a "finally" clause.(¹»­èúÿÿÿÿ8ç”ú€î0
+g	java:S112""FDefine and throw a dedicated exception instead of using a generic one.(¹µªÎøÿÿÿÿ8ç”ú€î0
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(°‰•‚úÿÿÿÿ8ç”ú€î0
+E
+java:S1148U"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ç”ú€î0
+7
+java:S1220""Move this file to a named package.8ç”ú€î0
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(Äßæ«8ç”ú€î0
+c
+java:S1075O"ARefactor your code to get this URI from a customizable parameter.(÷šşúÿÿÿÿ8ç”ú€î0
+v
+java:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘áÒÆ8ç”ú€î0
